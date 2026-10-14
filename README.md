@@ -5,7 +5,7 @@ A chat widget that replaces your contact form. It asks five qualifying questions
 - Full Node.js 18+ source, MIT licence, 50 automated tests
 - Works with any OpenAI-compatible API (bring your own key)
 - Docker or `npm start`, one-line install on your site
-- **$10 one-time**, no monthly fee
+- **$7.90 files only · $10 with installation**, one-time, no monthly fee
 
 **Details & purchase:** https://cactus1382.github.io/ai-lead-qualifier/
 **Contact:** [Telegram @alirha82](https://t.me/alirha82)
